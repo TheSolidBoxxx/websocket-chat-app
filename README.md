@@ -11,5 +11,6 @@ Compile it using:
 gcc -g ./ChatApp.c -o ./ChatApp -lssl -lcrypto
 ```
 
+Only for Linux, for now.
 Tested on Firefox web browser.
 Enjoy it, I'll keep updating it to make it more functional and user-friendly.
